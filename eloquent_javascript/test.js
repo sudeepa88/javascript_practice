@@ -11,5 +11,5 @@ if(!Number.isNaN(aNumber)){
     console.log("Your number is square root of : "+aNumber*aNumber);
     
 }else{
-    console.log("Hey. Why didn't give me a number ? ");
+    console.log("Hey. Why didn't give me a number ? ");  
 }
